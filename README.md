@@ -1,10 +1,8 @@
-# React + Vite
+# Basic website using react js compoents 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A figma design turned into a website with the help of javascript and it's libraries . It is a good start for someone starting out react with dtrong fundamentals in html,css and javascript. 
 
-Currently, two official plugins are available:
+# Output
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# react-website" 
-"# react-website" 
+
+![Screenshot 2024-01-15 211143](https://github.com/Rushhhh1/react-website/assets/133624169/593fed2b-93ea-4211-9f55-6cdc9993f9b4)
